@@ -1,1 +1,1 @@
-[![JaDghWN.md.jpg](https://iili.io/JaDghWN.md.jpg)](https://freeimage.host/i/JaDghWN)
+![JaDghWN.md.jpg](https://raw.githubusercontent.com/ktron84/script-desbordes-dinamicos/main/script.jpg)
